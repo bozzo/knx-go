@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/vapourismo/knx-go/knx/cemi"
-	"github.com/vapourismo/knx-go/knx/knxnet"
-	"github.com/vapourismo/knx-go/knx/util"
+	"github.com/bozzo/knx-go/knx/cemi"
+	"github.com/bozzo/knx-go/knx/knxnet"
+	"github.com/bozzo/knx-go/knx/util"
 )
 
 // TunnelConfig allows you to configure the tunnel client's behavior.

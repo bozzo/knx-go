@@ -6,8 +6,8 @@ package knxnet
 import (
 	"testing"
 
-	"github.com/vapourismo/knx-go/knx/cemi"
-	"github.com/vapourismo/knx-go/knx/util"
+	"github.com/bozzo/knx-go/knx/cemi"
+	"github.com/bozzo/knx-go/knx/util"
 )
 
 func BenchmarkPack(b *testing.B) {
